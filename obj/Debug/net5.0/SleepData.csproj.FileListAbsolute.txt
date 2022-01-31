@@ -1,0 +1,16 @@
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\bin\Debug\net5.0\SleepData.exe
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\bin\Debug\net5.0\SleepData.deps.json
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\bin\Debug\net5.0\SleepData.runtimeconfig.json
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\bin\Debug\net5.0\SleepData.runtimeconfig.dev.json
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\bin\Debug\net5.0\SleepData.dll
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\bin\Debug\net5.0\ref\SleepData.dll
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\bin\Debug\net5.0\SleepData.pdb
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\obj\Debug\net5.0\SleepData.csproj.AssemblyReference.cache
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\obj\Debug\net5.0\SleepData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\obj\Debug\net5.0\SleepData.AssemblyInfoInputs.cache
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\obj\Debug\net5.0\SleepData.AssemblyInfo.cs
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\obj\Debug\net5.0\SleepData.csproj.CoreCompileInputs.cache
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\obj\Debug\net5.0\SleepData.dll
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\obj\Debug\net5.0\ref\SleepData.dll
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\obj\Debug\net5.0\SleepData.pdb
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\obj\Debug\net5.0\SleepData.genruntimeconfig.cache
