@@ -14,3 +14,7 @@ C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\obj\Debug\net5.0\Sleep
 C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\obj\Debug\net5.0\ref\SleepData.dll
 C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\obj\Debug\net5.0\SleepData.pdb
 C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\obj\Debug\net5.0\SleepData.genruntimeconfig.cache
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\bin\Debug\net5.0\NLog.dll
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Users\trayt\OneDrive\Homework\NetProgramming\SleepData\obj\Debug\net5.0\SleepData.csproj.CopyComplete

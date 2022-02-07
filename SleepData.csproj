@@ -6,6 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageREference Include="Nlog.Web.AspNetCore" Version"4.14.0" />
+    <PackageREference Include="NLog.Web.AspNetCore" Version="4.14.0" />
   </ItemGroup>
 </Project>
